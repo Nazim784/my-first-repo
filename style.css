@@ -1,10 +1,25 @@
-p{
-    color:red;
+#id {
+    border:5px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: crimson;
+    color: black;
 }
-#indi{
-    border: black;
+.id{
+    border:5px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: crimson;
+    color: black;
 }
-
 div{
     background-color: gray;
+}
+.fat{
+    background-color: indigo;
+    color:olive;
+
+}
+.r{
+    border: 2px dashed seagreen;
 }
